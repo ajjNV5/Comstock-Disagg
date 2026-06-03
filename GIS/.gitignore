@@ -1,0 +1,12 @@
+# CSV and compressed CSV files
+*.csv
+*.csv.gz
+*.shp
+*.shx
+*.dbf
+*.prj
+*.kml
+*cpg
+
+# Downloaded ComStock data
+comstock_va_csvs/
